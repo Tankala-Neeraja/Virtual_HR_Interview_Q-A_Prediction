@@ -1,4 +1,4 @@
-# 🤖 Virtual HR Interview Q&A Prediction App
+# 🤖 Virtual HR Interview Q&A Prediction
 
 The **Virtual HR Interview Q&A Predictor** is an AI-powered web application that generates personalized HR interview 
 questions and answers based on a user's resume. Built using **Flask**, **Python**, and **Google Gemini AI**, the app provides
